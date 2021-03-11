@@ -1,0 +1,8 @@
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\bin\Debug\Calculadora Agroclimática.exe.config
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\bin\Debug\Calculadora Agroclimática.exe
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\bin\Debug\Calculadora Agroclimática.pdb
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\obj\Debug\Calculadora Agroclimática.csprojResolveAssemblyReference.cache
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\obj\Debug\Calculadora_Agroclimática.MainForm.resources
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\obj\Debug\Calculadora Agroclimática.csproj.GenerateResource.Cache
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\obj\Debug\Calculadora Agroclimática.exe
+C:\Users\Weliton Almeida\Documents\SharpDevelop Projects\Calculadora Agroclimática\Calculadora Agroclimática\obj\Debug\Calculadora Agroclimática.pdb
